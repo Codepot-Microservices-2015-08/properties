@@ -1,1 +1,2 @@
 server.port: 9192
+spring.application.name: dojrzewatr-red
